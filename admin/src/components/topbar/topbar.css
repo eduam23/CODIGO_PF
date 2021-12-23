@@ -18,8 +18,9 @@
 .logo {
   font-weight: bold;
   font-size: 30px;
-  color: darkblue;
+  color: #F1C635;
   cursor: pointer;
+  text-shadow: 10px;
 }
 
 .topRight{
